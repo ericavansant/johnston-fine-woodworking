@@ -1,0 +1,357 @@
+[
+  {
+    "file": "assets/hero.jpg",
+    "sha256": "1e07850f8e706b420f6c5b6fcd944e2872578a29b47ddd69d1cab3e485ca59ef",
+    "bytes": 583256
+  },
+  {
+    "file": "assets/horizontal-logo.jpg",
+    "sha256": "4fc84b9aaf0eb17d82775c0e077de8e423e19364fa9ba4f36a21bf5266dc1f8c",
+    "bytes": 119328
+  },
+  {
+    "file": "assets/larry-johnston.jpeg",
+    "sha256": "7512590894aaf8f330c13cf8c85ccdf08205203ef25580685bca78bd811c9774",
+    "bytes": 927462
+  },
+  {
+    "file": "assets/portfolio/bars/high-gloss-wet-bar/01.jpg",
+    "sha256": "6b675d3acfa46091de0a20b0dbf61f4c6833811a1cf25ca5b21c1c55cd18c1de",
+    "bytes": 496197
+  },
+  {
+    "file": "assets/portfolio/bars/high-gloss-wet-bar/02.jpg",
+    "sha256": "bb95494487281fe293bd7f9dd6119627e166872b844956dd8dba03bd4c5abef8",
+    "bytes": 684198
+  },
+  {
+    "file": "assets/portfolio/bars/needham-wet-bar/01.jpg",
+    "sha256": "050fcf251dd18437d91d4e4eeeb900912c8158b771ac8048ef26742e9a67a362",
+    "bytes": 1461007
+  },
+  {
+    "file": "assets/portfolio/bars/wellesley-coffee-bar/01.jpg",
+    "sha256": "498bc5c8eb987bccbf3de3446996a2b6c4e91d7dad000e29bc6bc791e1e01156",
+    "bytes": 2800973
+  },
+  {
+    "file": "assets/portfolio/bathrooms/brookline-rift-white-oak/01.jpg",
+    "sha256": "58ad8fd6ce3b1f64c5dcb0f6becfe90c54f39260a9981b6cd703c8d87b8d0cbc",
+    "bytes": 538217
+  },
+  {
+    "file": "assets/portfolio/bathrooms/brookline-rift-white-oak/02.jpeg",
+    "sha256": "915c5a2dd52b1268c3c933d376764a4d764483bf07108c61840be25c0e07dd16",
+    "bytes": 199295
+  },
+  {
+    "file": "assets/portfolio/bathrooms/brookline-rift-white-oak/03.jpeg",
+    "sha256": "a7f083ddd2c2e47348a4b391335a2830aeaba2dece3cbeca1c6335e431fec09e",
+    "bytes": 480264
+  },
+  {
+    "file": "assets/portfolio/bathrooms/cambridge-vanities/01.jpg",
+    "sha256": "c98922dc32782c0212d2e536c56481c7f978e64f80ba4ae19a9f58281b14401a",
+    "bytes": 650143
+  },
+  {
+    "file": "assets/portfolio/bathrooms/cambridge-vanities/02.jpg",
+    "sha256": "61f14427d15af320ce8f82f28239d132fff86512cc5735327ad8c4c011d1ab97",
+    "bytes": 1440613
+  },
+  {
+    "file": "assets/portfolio/bathrooms/cambridge-vanities/03.jpeg",
+    "sha256": "a589b9d8ea0d6c5329eef76f78a0f4bb01c4e71bbef1bee7a7123e0fba5e7576",
+    "bytes": 528091
+  },
+  {
+    "file": "assets/portfolio/bathrooms/cambridge-vanities/04.jpeg",
+    "sha256": "13755b5f8b91311202536eaf61c32a96aa4a82c576fcfc92039c289bfe4f3de6",
+    "bytes": 154684
+  },
+  {
+    "file": "assets/portfolio/bathrooms/cambridge-vanities/05.jpeg",
+    "sha256": "b57f953d0b031e454341217da7c3213ef978d909cf6ac90339e0b70fd39f1de9",
+    "bytes": 508313
+  },
+  {
+    "file": "assets/portfolio/bathrooms/weston-primary-bath/01.jpg",
+    "sha256": "65a59f043ffca3c24de7481cdc3482905df11112f8beb9d6c252fcfcca838eb4",
+    "bytes": 1963439
+  },
+  {
+    "file": "assets/portfolio/bathrooms/weston-primary-bath/02.jpeg",
+    "sha256": "7496fbc194c32e19d24c2c9258042d6b4d15c2b251d9fd721d94a2014e9874af",
+    "bytes": 555644
+  },
+  {
+    "file": "assets/portfolio/built-ins/blue-and-white-arched-cabinet/01.jpg",
+    "sha256": "cca3ee8de50cf533b92c9eceb4fc3fcae72ec0bc232186c1bd1d6439409ecad8",
+    "bytes": 963534
+  },
+  {
+    "file": "assets/portfolio/built-ins/blue-and-white-arched-cabinet/02.jpg",
+    "sha256": "023851f768a68abab3b6048441fb89d38c4aa55f51a4846b229da280d1f02709",
+    "bytes": 1459173
+  },
+  {
+    "file": "assets/portfolio/built-ins/cambridge-entryway-and-entertainment-wall/01.jpg",
+    "sha256": "8a626751efd88a200d370f84cc57a304331cde4e8bfa2497f5101965339d131b",
+    "bytes": 730143
+  },
+  {
+    "file": "assets/portfolio/built-ins/cambridge-entryway-and-entertainment-wall/02.jpeg",
+    "sha256": "48af20957a03da502b38bc3c2259623a6b7bc33ab1db8b1960ed304179c41412",
+    "bytes": 293048
+  },
+  {
+    "file": "assets/portfolio/built-ins/rift-white-oak-arched-cabinet/01.jpg",
+    "sha256": "172c5bd2ae4d5a20468d9465c995f99c295b3c33aec917866baab76e0f7e5f4d",
+    "bytes": 667724
+  },
+  {
+    "file": "assets/portfolio/built-ins/rift-white-oak-arched-cabinet/02.jpeg",
+    "sha256": "a788bc195e34e27feea73067c5a7be4b11299c059ece9b0efa60ee56688e8fa7",
+    "bytes": 495724
+  },
+  {
+    "file": "assets/portfolio/dressing-rooms/weston-dressing-room/01.jpeg",
+    "sha256": "a09d707517d12f2a8121f9c609b29bb8ed332e755b1f63efbc47b1f06e4c5623",
+    "bytes": 777277
+  },
+  {
+    "file": "assets/portfolio/dressing-rooms/weston-dressing-room/02.jpeg",
+    "sha256": "1fc518b7933d94e34ce70787421fdd015b3c526794d570e41010c80737c55738",
+    "bytes": 517647
+  },
+  {
+    "file": "assets/portfolio/dressing-rooms/weston-dressing-room/03.jpeg",
+    "sha256": "bb9dc9178b60f4eca2dba76b6dfba86a2c33792c2f6ef2cb4d53df0192770467",
+    "bytes": 655378
+  },
+  {
+    "file": "assets/portfolio/dressing-rooms/weston-dressing-room/04.jpeg",
+    "sha256": "da8063794887a10031bf2a812dffd5f88c0a06668891183d05a1758b36a78c29",
+    "bytes": 632523
+  },
+  {
+    "file": "assets/portfolio/kitchens/back-bay-kitchen/01.png",
+    "sha256": "67e4f30c3bd9c60e66800cc494ff751d46a42b7d9f5ab0a98dca534f702511a1",
+    "bytes": 1158211
+  },
+  {
+    "file": "assets/portfolio/kitchens/back-bay-kitchen/02.jpeg",
+    "sha256": "2a06036b296e25ce5067740d62df7e58f5fcc3665d966d3d50b66f0b0486b903",
+    "bytes": 438271
+  },
+  {
+    "file": "assets/portfolio/kitchens/back-bay-kitchen/03.jpeg",
+    "sha256": "ce578bb1477c1cf68eec48c191e2165c4d3a42aa677d07e19004d544a30ce686",
+    "bytes": 294203
+  },
+  {
+    "file": "assets/portfolio/kitchens/back-bay-kitchen/04.jpeg",
+    "sha256": "430a5849184b36d6c5ae7730d7874cbd9a7c4206b50458aa3d78bc7430507fe5",
+    "bytes": 319880
+  },
+  {
+    "file": "assets/portfolio/kitchens/brookline-kitchen/01.jpg",
+    "sha256": "4d9edb8bbb776fa71e40e478126b981d97d42a3cf458f282bc23382b590bf80f",
+    "bytes": 1697424
+  },
+  {
+    "file": "assets/portfolio/kitchens/brookline-kitchen/02.jpg",
+    "sha256": "6e2a5b476fe926144f3fb6deef8a488fda228f1ab4e9a92d13ddf83f25cfc7de",
+    "bytes": 994794
+  },
+  {
+    "file": "assets/portfolio/kitchens/brookline-kitchen/03.jpeg",
+    "sha256": "6caee92a845b7558870a1ddf5af58e3ce593877b499929ee89f47631ef9e76fa",
+    "bytes": 557133
+  },
+  {
+    "file": "assets/portfolio/kitchens/concord-kitchen/01.jpeg",
+    "sha256": "fc89fd06f167c3d484e8603d63c94c31c2c5fabfa7f12b8e157e8e18034a57f9",
+    "bytes": 725309
+  },
+  {
+    "file": "assets/portfolio/kitchens/concord-kitchen/02.jpg",
+    "sha256": "a1ed1e57b0e9405ee19f35cf080ebd6eefb8cc048f569fcf4aa6794aa63ea731",
+    "bytes": 1572802
+  },
+  {
+    "file": "assets/portfolio/kitchens/concord-kitchen/03.jpeg",
+    "sha256": "d55564a63e6115628d921dd646a16396ffaf80d259a983fefc53c701ac674c5e",
+    "bytes": 427317
+  },
+  {
+    "file": "assets/portfolio/kitchens/concord-kitchen/04.jpeg",
+    "sha256": "68ccf97697b7c1483fecdd160e66293b7bdd7d3c9433ac46ffd366215824eb7e",
+    "bytes": 611057
+  },
+  {
+    "file": "assets/portfolio/kitchens/concord-kitchen/05.jpeg",
+    "sha256": "8a491c850450d01dc48cdc6b04b2db711a384912d064971bb0e5d8fdf24cecc0",
+    "bytes": 464981
+  },
+  {
+    "file": "assets/portfolio/kitchens/concord-kitchen/06.jpeg",
+    "sha256": "7c745457528df973a06978d6ddd5139a4d4f58fe5c043ecb45b61072b6a65016",
+    "bytes": 1224814
+  },
+  {
+    "file": "assets/portfolio/kitchens/concord-kitchen/07.jpeg",
+    "sha256": "285b1328ba5a3354c4545d6185e5cef2a08dcd70861c5ea153f5b6ed54ac5eab",
+    "bytes": 605314
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/01.jpg",
+    "sha256": "9f7e568a493ace1b800a89956e08f0ab8f7afa0a7feaeff5b4544897e1da94f2",
+    "bytes": 3662158
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/02.jpeg",
+    "sha256": "50b122b1ec1bbd42a699e3bd4dbb22f073f9f4433d6a31ca1e49d36e55b25895",
+    "bytes": 543472
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/03.jpeg",
+    "sha256": "e6cc498e51c9e485b688db9172342f4933fbb42036490b7ca5af7867ec3104b8",
+    "bytes": 395894
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/04.jpeg",
+    "sha256": "3bd3225742a8a3e46a34d1bfba86109db09c29ec83c80b2402a91d204c284d14",
+    "bytes": 348048
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/05.jpeg",
+    "sha256": "d0c944415b8072738f9c27eec3c8e3e8c15f9314f92a87946cd3be6723bd7bac",
+    "bytes": 313345
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/06.jpeg",
+    "sha256": "909941774ec8c38610f13731b902df0bf52fafaf81dc6536a078956a6e7cbed5",
+    "bytes": 308107
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/07.jpg",
+    "sha256": "65e82cd687c7619eec49ccabd2f78c1916d216a46c247b9bdcbbe4b1de996eaf",
+    "bytes": 3409841
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/08.jpeg",
+    "sha256": "7e8d9d6e6c6143d8572d663a466078507a7974d62dc46110e6561bc3f17912f8",
+    "bytes": 337327
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/09.jpg",
+    "sha256": "095c1ae0fc513934341d7f45414075561f884d391bc29ef3554b05d5c35d49f0",
+    "bytes": 2768143
+  },
+  {
+    "file": "assets/portfolio/kitchens/needham-kitchen/10.jpeg",
+    "sha256": "2c46a51177de455d34221a4c3f6f004c42cf95259f8b2ca28f51a4f8baff13a2",
+    "bytes": 724885
+  },
+  {
+    "file": "assets/portfolio/kitchens/south-end-kitchen/01.jpeg",
+    "sha256": "d0e380f44e5bc4556055df87f576bbc491a390988b090068d76dc977136cec12",
+    "bytes": 539410
+  },
+  {
+    "file": "assets/portfolio/kitchens/south-end-painted-and-oak-kitchen/01.jpg",
+    "sha256": "f5ad0dadf29241121defc28c20dd387b0a4126293cd7899027255aec3291b51d",
+    "bytes": 923203
+  },
+  {
+    "file": "assets/portfolio/kitchens/south-end-painted-and-oak-kitchen/02.jpeg",
+    "sha256": "59008bca4d252b3e12aaed1fdf1d955d20611bb046b93e3db81c8a18f00afcbe",
+    "bytes": 451900
+  },
+  {
+    "file": "assets/portfolio/kitchens/south-end-painted-and-oak-kitchen/03.jpeg",
+    "sha256": "0c52fed33d6852886bf33cf4435745abf2d4d95ad21df996fdd470c1a47ca5f3",
+    "bytes": 546930
+  },
+  {
+    "file": "assets/portfolio/kitchens/wellesley-banquette/01.jpg",
+    "sha256": "1fe3ce2105cae0851ba20f45f0c515c002e19f61909f1cc0eaa4c0b07eabb332",
+    "bytes": 2725695
+  },
+  {
+    "file": "assets/portfolio/kitchens/wellesley-kitchen/01.jpeg",
+    "sha256": "23e5545137b83b995f1a04ec3792642807e5321b9c393595541b11d5bf48bc03",
+    "bytes": 345026
+  },
+  {
+    "file": "assets/portfolio/kitchens/wellesley-kitchen/02.jpeg",
+    "sha256": "600b23aaa3d07913c696612fa71f64e5aa816517f8a993399a8651f8f8effdee",
+    "bytes": 395406
+  },
+  {
+    "file": "assets/portfolio/kitchens/wellesley-kitchen/03.jpeg",
+    "sha256": "d198d03be5f32bce4d3b6b7b383254a389eab81779eb6dd2bdc773d534dadbfd",
+    "bytes": 322811
+  },
+  {
+    "file": "assets/portfolio/kitchens/wellesley-kitchen/04.jpeg",
+    "sha256": "1488e813fa25f7b4822d3a6f705c24d4ceac07b901f4936e8e04ecd15744adb1",
+    "bytes": 368555
+  },
+  {
+    "file": "assets/portfolio/mudrooms/jp-entryway/01.jpg",
+    "sha256": "fc9a1e2cae99e4dae6fe3db93872d4ca286b9e1bcce847d01342bbd0151bd189",
+    "bytes": 1901858
+  },
+  {
+    "file": "assets/portfolio/mudrooms/wellesley-mudroom/01.jpg",
+    "sha256": "af1af5a6b1ade0eb9aa1a26e7ca83b199e5a7887f6755b6b8511c5479b6c2e5c",
+    "bytes": 458496
+  },
+  {
+    "file": "assets/portfolio/mudrooms/wellesley-mudroom/02.jpeg",
+    "sha256": "a861269e874294f3b8a8c41fa62f10a072739108890449edc0a47be626b7602e",
+    "bytes": 331250
+  },
+  {
+    "file": "assets/portfolio/offices/concord-office/01.jpg",
+    "sha256": "b42fc414a2ba4141b32a629bfa91fa5a14623ad6631ac7f184a94b6e62640e2a",
+    "bytes": 1283491
+  },
+  {
+    "file": "assets/portfolio/small-works/01.jpeg",
+    "sha256": "9082d59ed0acc8d517ca8ffd297bd0b3cd44f6757a44420a5d6865635d2f1530",
+    "bytes": 444822
+  },
+  {
+    "file": "assets/portfolio/small-works/02.jpeg",
+    "sha256": "5ddf5d7cbad7a5117890c65c36c1e3b89f9344bc65630c236eea4f6e109effca",
+    "bytes": 288711
+  },
+  {
+    "file": "assets/portfolio/small-works/03.jpeg",
+    "sha256": "cf173e1d5187805dcd738e0f3b47851fc74e4e5fd8200a422f78a296005f10dd",
+    "bytes": 871825
+  },
+  {
+    "file": "assets/portfolio/small-works/04.jpeg",
+    "sha256": "629081ac2d8de121fd955772caba8a69c31cc5f2e5a4ed199c17fd2527f399d7",
+    "bytes": 284729
+  },
+  {
+    "file": "assets/portfolio/small-works/05.jpeg",
+    "sha256": "32656b081c5db5c57f2a3a1502d6629c53c5ba84c1ba0432abaea2626ae266e5",
+    "bytes": 268052
+  },
+  {
+    "file": "assets/portfolio/small-works/06.jpeg",
+    "sha256": "febc8c278350e27d1cfab729ded6b9896f594153990be766bb843583689f39de",
+    "bytes": 846847
+  },
+  {
+    "file": "assets/portfolio/small-works/07.jpeg",
+    "sha256": "e3ce41754f8910a0e6c5ef038b95072b2546aa23e3ba54044c354302d299d4f1",
+    "bytes": 597622
+  }
+]

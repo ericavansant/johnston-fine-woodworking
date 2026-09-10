@@ -1,0 +1,21 @@
+JOHNSTON FINE WOODWORKING — V8
+
+Portfolio structure
+- Homepage: project categories only.
+- Category pages: one main image per project.
+- Project pages: all supplied images plus a revised description.
+- Project images open in a full-screen viewer with + / - / 100% controls, double-click zoom, drag-to-pan when zoomed, and Escape/Close to return to the project gallery.
+- “Just for Fun” has been moved out of Selected Work and placed beneath Larry’s bio so it reads as a personal glimpse into his making practice rather than a commissioned-project category.
+
+Image integrity
+- Project photos were copied byte-for-byte from the supplied Updated Website.7z archive.
+- The hero, Larry portrait, and horizontal logo were copied byte-for-byte from previously supplied original files.
+- No project image was cropped, retouched, resaved, upscaled, AI-generated, or AI-modified. CSS may scale images for display only.
+
+Copy edits made for consistency
+- Corrected typos such as “LSeveral,” “continues bank,” “banquet” (to “banquette”), “counter tops,” and inconsistent use of “built in/built-in.”
+- Standardized terminology including face-frame, inset, overlay, slim-Shaker, rift white oak, butler’s pantry, and integrated finger pulls.
+- Rewrote descriptions in a restrained architectural tone, emphasizing construction, material, integration, and design intent rather than sales language.
+
+Source-folder exceptions
+- A few project folders do not include an image literally numbered 1 (Needham Wet Bar, Wellesley Coffee Bar, Cambridge Vanities). For those projects the lowest-numbered / first available supplied image is used as the main image.
