@@ -18,3 +18,47 @@
 /* Homepage category cards */
 @media(max-width:900px){.category-grid--text{grid-template-columns:1fr 1fr}.category-grid--text .category-card--text:last-child:nth-child(odd){grid-column:1/-1}.category-card--text{min-height:185px}}
 @media(max-width:620px){.category-grid--text{grid-template-columns:1fr}.category-grid--text .category-card--text:last-child:nth-child(odd){grid-column:auto}.category-card--text{min-height:165px}.category-card--text h3{font-size:clamp(34px,10vw,48px)}}
+
+/* v14: keep Larry portrait compact and beside bio on laptop-sized screens */
+@media (min-width:621px){
+  .maker-card{
+    grid-template-columns:minmax(220px,320px) minmax(0,1fr)!important;
+    gap:clamp(34px,5vw,72px)!important;
+    align-items:start!important;
+    padding:clamp(38px,4.5vw,68px) 0!important;
+  }
+  .maker-photo{
+    width:100%!important;
+    height:360px!important;
+    min-height:0!important;
+  }
+  .maker-photo img{
+    width:100%!important;
+    height:100%!important;
+    min-height:0!important;
+    object-fit:cover!important;
+    object-position:center 38%!important;
+  }
+  .maker-copy{
+    padding:4px 0 0!important;
+  }
+}
+@media (max-width:620px){
+  .maker-card{
+    grid-template-columns:1fr!important;
+    padding:0!important;
+  }
+  .maker-photo{
+    width:min(100%,300px)!important;
+    height:350px!important;
+    min-height:0!important;
+  }
+  .maker-photo img{
+    width:100%!important;
+    height:100%!important;
+    min-height:0!important;
+    object-fit:cover!important;
+    object-position:center 38%!important;
+  }
+  .maker-copy{padding:30px 0 0!important;}
+}
