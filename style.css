@@ -62,3 +62,48 @@
   }
   .maker-copy{padding:30px 0 0!important;}
 }
+
+/* v15: balanced Larry section — compact portrait + Just for Fun at left, bio at right */
+.maker-layout{
+  border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);
+  display:grid;
+  grid-template-columns:minmax(260px,340px) minmax(0,1fr);
+  gap:clamp(44px,6vw,88px);
+  align-items:start;
+  padding:clamp(42px,5vw,72px) 0;
+}
+.maker-left{display:flex;flex-direction:column;gap:30px;min-width:0}
+.maker-layout .maker-photo{width:100%;height:360px;min-height:0;overflow:hidden;background:#e9e6df}
+.maker-layout .maker-photo img{width:100%;height:100%;object-fit:cover;object-position:center 38%}
+.maker-layout .maker-copy{padding:0;max-width:690px}
+.maker-title{
+  font-family:"Libre Caslon Display",Georgia,serif;
+  font-size:clamp(34px,3.4vw,50px);
+  font-weight:400;
+  line-height:1.05;
+  letter-spacing:-.018em;
+  margin:0 0 30px;
+}
+.maker-layout .maker-copy p:not(.section-kicker){font-size:clamp(14px,1.05vw,16px);line-height:1.72;max-width:650px;color:#4f4d47;margin:0 0 18px}
+.maker-fun--compact{display:block;margin:0;padding:26px 0 0;border-top:1px solid var(--line)}
+.maker-fun--compact .maker-fun__copy h3{font-size:clamp(25px,2.2vw,32px);margin:0 0 12px}
+.maker-fun--compact .maker-fun__copy>p:not(.section-kicker){font-size:13px;line-height:1.55;margin:0 0 16px;max-width:330px}
+.maker-fun--compact .maker-fun__gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin-top:22px}
+.maker-fun--compact .maker-fun__gallery span{height:82px;background:#eeeae2}
+.maker-fun--compact .maker-fun__gallery img{width:100%;height:100%;object-fit:contain}
+
+@media(max-width:900px){
+  .maker-layout{grid-template-columns:minmax(220px,290px) minmax(0,1fr);gap:38px}
+  .maker-layout .maker-photo{height:330px}
+  .maker-title{font-size:clamp(30px,4.3vw,42px);margin-bottom:24px}
+  .maker-layout .maker-copy p:not(.section-kicker){font-size:14px;line-height:1.65}
+  .maker-fun--compact .maker-fun__gallery span{height:72px}
+}
+@media(max-width:700px){
+  .maker-layout{grid-template-columns:1fr;gap:38px}
+  .maker-left{max-width:360px}
+  .maker-layout .maker-photo{height:390px}
+  .maker-fun--compact .maker-fun__gallery span{height:86px}
+  .maker-layout .maker-copy{max-width:none}
+}
