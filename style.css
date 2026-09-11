@@ -235,3 +235,27 @@
   .viewer-slide{padding:10px}
   .viewer-counter{min-width:40px}
 }
+
+
+/* v20: About copy-only layout */
+.intro-grid--copy-only{grid-template-columns:minmax(0,780px);gap:0}
+.intro-grid--copy-only .intro-copy{max-width:780px}
+
+/* v20: Larry photo caption */
+.maker-project-caption{
+  margin:10px 0 0;
+  color:var(--muted);
+  font-size:10px;
+  line-height:1.45;
+  letter-spacing:.035em;
+}
+.maker-project-caption + .maker-caption{padding-top:12px}
+
+/* v20: protect the top of the hero image on short/wide laptop screens.
+   The image remains untouched; only the CSS crop position changes. */
+@media (min-width:901px) and (max-height:850px){
+  .hero-media img{object-position:center 60%}
+}
+@media (min-width:901px) and (max-height:720px){
+  .hero-media img{object-position:center 56%}
+}

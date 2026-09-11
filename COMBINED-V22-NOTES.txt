@@ -1,0 +1,14 @@
+Johnston Fine Woodworking v22 combined code
+
+Base: v20 website edits
+- responsive hero crop adjustment for shorter laptop screens
+- removed “Cabinetry made for the room.” under About
+- added Wellesley Library exterior doors caption beneath Larry's photo
+- updated Kitchens and Vanities & Dressing Rooms service descriptions
+- updated Brookline Rift White Oak project description
+
+Added from v21
+- Google Analytics tag G-T29C4GEZ72 on every HTML page
+
+Cache query strings were bumped to v=22 so browsers are more likely to fetch the latest CSS/JS.
+Image asset folders are unchanged and are not included in this code-only package.
