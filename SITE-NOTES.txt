@@ -27,3 +27,8 @@ To make browser uploads to GitHub easier, image files are split across two indep
 - assets-main/      : logo, hero, Larry portrait, and all non-kitchen portfolio photography (~27 MB)
 
 Upload each folder separately. Do not rename either folder; the HTML references these exact names.
+
+V11 homepage changes:
+- Selected Work uses text-only category boxes on the homepage; category and project pages are unchanged.
+- Just for Fun copy under Larry's bio was simplified to "Personal projects" with a concise description.
+- No photography was modified.
