@@ -19,3 +19,11 @@ Copy edits made for consistency
 
 Source-folder exceptions
 - A few project folders do not include an image literally numbered 1 (Needham Wet Bar, Wellesley Coffee Bar, Cambridge Vanities). For those projects the lowest-numbered / first available supplied image is used as the main image.
+
+UPLOAD STRUCTURE (v10)
+----------------------
+To make browser uploads to GitHub easier, image files are split across two independent top-level folders:
+- assets-kitchens/  : all kitchen portfolio photography (~30 MB)
+- assets-main/      : logo, hero, Larry portrait, and all non-kitchen portfolio photography (~27 MB)
+
+Upload each folder separately. Do not rename either folder; the HTML references these exact names.
