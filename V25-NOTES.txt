@@ -1,0 +1,1 @@
+v25: Hero crop rebalanced to restore more lower cabinetry while keeping more of the stove hood visible. No image files changed.
