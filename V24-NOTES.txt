@@ -1,0 +1,1 @@
+v24: Hero crop adjusted upward to show more of the stove hood across desktop, short-laptop, and mobile layouts. No image files were modified.
